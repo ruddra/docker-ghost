@@ -1,0 +1,12 @@
+version: '2'  
+services:  
+  ghost:
+    image: ghost:latest
+    container_name: g02
+    ports:
+      - "2368:2368"
+    volumes:
+      - ./content/images:/var/lib/ghost/content/images
+      - ./content/themes:/var/lib/ghost/content/themes
+      - ./content/apps:/var/lib/ghost/content/apps
+      - ./content/data:/var/lib/ghost/content/data
