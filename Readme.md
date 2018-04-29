@@ -1,4 +1,4 @@
-### Ghost Docker
+## Docker Ghost
 
 Dockerized Ghost Blog Implementation. You can use it using the following commands:
 
@@ -24,4 +24,4 @@ Dockerized Ghost Blog Implementation. You can use it using the following command
 	Access log
 
 ## Documentation
-If you are migrating from Gost 0.11 to 1.XX via Docker or just simple want to use this boiler place, please read here at [ruddra.com](http://ruddra.com/)
+If you are migrating from Gost 0.11 to 1.XX via Docker or just simple want to use this boiler place, please read here at [ruddra.com](http://ruddra.com/2018/04/29/migrating-from-ghost-11-to-1-xx-using-docker/)
